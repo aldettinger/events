@@ -45,11 +45,11 @@ We had around 15 attendees to the talk and everyone was involved to create a gre
 ---
 ## Paris JUG - February 2022
 
-Right after SnowCamp, it was really easy to present [Integration with Camel Quarkus in the cloud era](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20220208) in french again.
+Right after SnowCamp, it was really easy to present [Integration with Camel Quarkus in the cloud era](https://youtu.be/LAFUKrSSa9A?t=5) at the [Paris JUG](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20220208) in french again.
 There was around 40 participants with some very creative questions.
 
 ---
 ## Devoxx FR at Paris - April 2022
 
-The 2h Hands-on Labs about Camel Quarkus in the cloud era was approved for SnowCamp.
+The [3h Hands-on Labs about Camel Quarkus](https://cfp.devoxx.fr/2022/talk/NOF-9542/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus) in the cloud era was approved for Devoxx FR 2022.
 We could expect up to 30 attendees speaking french.
