@@ -52,4 +52,5 @@ There was around 40 participants with some very creative questions.
 ## Devoxx FR at Paris - April 2022
 
 The [3h Hands-on Labs about Camel Quarkus](https://cfp.devoxx.fr/2022/talk/NOF-9542/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus) in the cloud era was approved for Devoxx FR 2022.
-We could expect up to 30 attendees speaking french.
+A tens of person attended the workshop. The audience interest was a bit split. Some would like a focus on Camel and others on Quarkus.
+At the end of the day, the workshop went well and people shared some great feedback with us.
