@@ -57,4 +57,10 @@ At the end of the day, the workshop went well and people shared some great feedb
 
 ## Voxxed Days at Luxembourg - June 2022
 
-The path of evangelization will lead me to Luxembourg for a one hour talk in french named [Intégration à l'ère du cloud avec Camel Quarkus](https://cfp-voxxed-lux.yajug.org/2022/talk/HKL-0341/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus). This time, I will try to integrate the endpoint DSL feature in the demonstration as we currently have clues at each conference that this feature is not known enough.
+The path of evangelization led me to Luxembourg for a one hour talk in french named [Intégration à l'ère du cloud avec Camel Quarkus](https://cfp-voxxed-lux.yajug.org/2022/talk/HKL-0341/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus). There was around 40 people attending. Based on questions from previous conferences, I demoed the enpoint DSL this time. It was well received by the audience.
+
+## J4K - September 2022
+The conference will finally turn online so I will be able to attend. The knative part of the demo was first created for J4K 2021 and finally I should be able to demonstrate it at J4K one year later.
+
+## Basel One - October 2022
+It will be a good occasion to evangelize the Camel Quarkus workshop and meet my colleague Peter Palaga.
