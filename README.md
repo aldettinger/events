@@ -61,7 +61,15 @@ The path of evangelization led me to Luxembourg for a one hour talk in french na
 The video is available [here](https://www.youtube.com/watch?v=taCIEEQCjeM).
 
 ## J4K - September 2022
-The conference will finally turn online so I will be able to attend. The knative part of the demo was first created for J4K 2021 and finally I should be able to demonstrate it at J4K one year later.
+The conference will finally turn online so I will be able to attend. The knative part of the demo was first created for J4K 2021.
+So, it's finally a fair return to be able to perform this presentation at J4K one year later.
+Video link and number of attendees should be available soon.
+
+## Devoxx Morocco - October 2022
+Devoxx Morocco will occur in Taghazout this year. The Camel Quarkus workshop was noticed by the organizers and selected for the conference.
+After few administrative hiccups, everything should now be ready to spread the Camel Quarkus knowledge in Africa too.
+Video link and number of attendees should be available soon.
 
 ## Basel One - October 2022
 It will be a good occasion to evangelize the Camel Quarkus workshop and meet my colleague Peter Palaga.
+Video link and number of attendees should be available soon.
