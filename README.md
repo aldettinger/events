@@ -66,7 +66,7 @@ So, it's finally a fair return to be able to perform this presentation at J4K on
 Video link and number of attendees should be available soon.
 
 ## Devoxx Morocco - October 2022
-Devoxx Morocco will occur in Taghazout this year. The Camel Quarkus workshop was noticed by the organizers and selected for the conference.
+Devoxx Morocco will occur in Taghazout this year. The Camel Quarkus workshop was noticed by the organizers and [selected for the conference](https://devoxx.ma/talk/?id=2171).
 After few administrative hiccups, everything should now be ready to spread the Camel Quarkus knowledge in Africa too.
 Video link and number of attendees should be available soon.
 
