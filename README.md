@@ -54,6 +54,7 @@ There was around 40 participants with some very creative questions.
 The [3h Hands-on Labs about Camel Quarkus](https://cfp.devoxx.fr/2022/talk/NOF-9542/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus) in the cloud era was approved for Devoxx FR 2022.
 A tens of person attended the workshop. The audience interest was a bit split. Some would like a focus on Camel and others on Quarkus.
 At the end of the day, the workshop went well and people shared some great feedback with us.
+And few seconds from the lab have even been integrated in the [Devoxx FR video trailer](https://youtu.be/a0tFfx1VnQM?t=31) :)
 
 ## Voxxed Days at Luxembourg - June 2022
 
