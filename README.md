@@ -64,7 +64,8 @@ The video is available [here](https://www.youtube.com/watch?v=taCIEEQCjeM).
 ## J4K - September 2022
 The conference will finally turn online so I will be able to attend. The knative part of the demo was first created for J4K 2021.
 So, it's finally a fair return to be able to perform this presentation at J4K one year later.
-Video link and number of attendees should be available soon.
+The demo turned well, cool as there was 56 attendees.
+Video link should be available soon.
 
 ## Devoxx Morocco - October 2022
 Devoxx Morocco will occur in Taghazout this year. The Camel Quarkus workshop was noticed by the organizers and [selected for the conference](https://devoxx.ma/talk/?id=2171).
