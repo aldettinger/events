@@ -72,5 +72,5 @@ After few administrative hiccups, everything should now be ready to spread the C
 Video link and number of attendees should be available soon.
 
 ## Basel One - October 2022
-It will be a good occasion to evangelize the Camel Quarkus workshop and meet my colleague Peter Palaga.
+It will be a good occasion to evangelize the [Camel Quarkus workshop](https://baselone.ch/speech.html?id=08CA4481-7EBE-44BF-B88E-5FEA9519FB18) and meet my colleague Peter Palaga.
 Video link and number of attendees should be available soon.
