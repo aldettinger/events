@@ -68,7 +68,7 @@ The demo turned well and there was 56 attendees.
 The video recording can be seen [here](https://www.youtube.com/watch?v=ISf7mmU09z8).
 
 ## Devoxx Morocco - October 2022
-Devoxx Morocco occurred in Taghazout this year. The Camel Quarkus workshop was noticed by the organizers and [selected for the conference](https://devoxx.ma/talk/?id=2171).
+Devoxx Morocco occurred in Taghazout that year. The Camel Quarkus workshop was noticed by the organizers and [selected for the conference](https://devoxx.ma/edition-2022/).
 After few administrative hiccups, the trip to spread the Camel Quarkus knowledge in Africa was fine.
 Among the 14 persons that have attended the workshop, there were a few students that showed great interest.
 The questions from the professionals were mainly about the advantages of Quarkus and the available extensions. 
