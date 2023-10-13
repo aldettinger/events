@@ -45,7 +45,7 @@ We had around 15 attendees to the talk and everyone was involved to create a gre
 ---
 ## Paris JUG - February 2022
 
-Right after SnowCamp, it was really easy to present [Integration with Camel Quarkus in the cloud era](https://youtu.be/LAFUKrSSa9A?t=5) at the [Paris JUG](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20220208) in french again.
+Right after SnowCamp, it was really easy to present [Integration with Camel Quarkus in the cloud era](https://youtu.be/LAFUKrSSa9A?t=5) at the [Paris JUG](https://www.parisjug.org/events/2022/02-08-cloud-camel-quarkus/) in french again.
 There was around 40 participants with some very creative questions.
 
 ---
