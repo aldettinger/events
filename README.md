@@ -74,7 +74,7 @@ Among the 14 persons that have attended the workshop, there were a few students 
 The questions from the professionals were mainly about the advantages of Quarkus and the available extensions. 
 
 ## Basel One - October 2022
-BaselOne was a good opportunity to evangelize the [Camel Quarkus workshop](https://baselone.ch/speech.html?id=08CA4481-7EBE-44BF-B88E-5FEA9519FB18) and meet my colleague Peter Palaga.
+BaselOne was a good opportunity to evangelize the [Camel Quarkus workshop](https://baselone.ch/speech.html?id=08CA4481-7EBE-44BF-B88E-5FEA9519FB18) and meet my colleague [Peter Palaga](https://github.com/ppalaga).
 There was 5 attendees, surprisingly mostly students.
 The first subject of interest was really to discover Quarkus, so we started on the fly presentation with Peter.
 After that, the workshop went well.
