@@ -84,6 +84,9 @@ At the end of the day, they finally solved this by refining the integration arch
 The routes becomes far more simpler after that.
 
 ## DEVFEST NANTES - October 2023
-It will be a real pleasure to lead the [Camel Quarkus workshop](https://devfest2023.gdgnantes.com/en/sessions/workshop_sur_l_integration_a_l_ere_du_cloud_avec_camel_quarkus/) with my colleague [Kevin Dubois](https://www.kevindubois.com/) at DEVFEST NANTES 2023.
-And this time, even with a very few attendees, we might reach the 100th persons trained ! It passes so quickly.
-This will also be the first time the workshop is demonstrated with the new Camel Quarkus 3.x major release.
+It was a real pleasure to lead the [Camel Quarkus workshop](https://devfest2023.gdgnantes.com/en/sessions/workshop_sur_l_integration_a_l_ere_du_cloud_avec_camel_quarkus/) with my colleague [Kevin Dubois](https://www.kevindubois.com/) at DEVFEST NANTES 2023. This was the first time that the workshop was demonstrated with the Camel Quarkus 3.x major release and... all went good.
+Still, the 2 hours slot was very short.
+And lesson learned for next short time slot, we might spend more time explaining Camel and Quarkus principles straight away so that people could finish the workshop at home.
+Last but not least, with this session I reached more than 100 persons trained with the Camel Quarkus workshop.
+And it's just good motivation to reach 200 !
+
