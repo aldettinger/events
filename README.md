@@ -89,3 +89,11 @@ Still, the 2 hours slot was very short.
 In such conditions, we might spend more time explaining Camel and Quarkus principles straight away so that people could finish the workshop at home.
 Last but not least, with this session I reached more than 100 persons trained with the Camel Quarkus workshop.
 It's just good motivation to reach 200 !
+
+## Voxxed Days Ticino - January 2024
+This conference in Lugano was really pleasant.
+A ten of folks attended this session where I presented a bit of past history as well as current events occurring in the Camel community.
+It was the first time I ever presented a non technical subject.
+After a few rehearsals, the presentation timing was well calibrated.
+Still, it seems that I have spoken a bit quickly as I recall myself being ahead of schedule during the presentation.
+Let's wait for the recording to check how it looked externally :)
