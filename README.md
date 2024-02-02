@@ -91,9 +91,7 @@ Last but not least, with this session I reached more than 100 persons trained wi
 It's just good motivation to reach 200 !
 
 ## Voxxed Days Ticino - January 2024
-This conference in Lugano was really pleasant.
-A ten of folks attended this session where I presented a bit of past history as well as current events occurring in the Camel community.
-It was the first time I ever presented a non technical subject.
-After a few rehearsals, the presentation timing was well calibrated.
-Still, it seems that I have spoken a bit quickly as I recall myself being ahead of schedule during the presentation.
-Let's wait for the recording to check how it looked externally :)
+This conference in Lugano was a really pleasant occasion to present [Apache Camel 4 released: What's new ?](https://www.youtube.com/watch?v=49OSBDHOstU&list=PLRsbF2sD7JVrSjqBTyVeQunUtqxJYt4Lb&index=14).
+A ten folks attended this session where I summarized the history of major Camel releases.
+I also presented some new tools revolutionizing the Camel user experience.
+A wider part of the audience already knew Camel and I think that this presentation format was well received by them.
