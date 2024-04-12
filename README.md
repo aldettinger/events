@@ -87,7 +87,7 @@ The routes becomes far more simpler after that.
 It was a real pleasure to lead the [Camel Quarkus workshop](https://devfest2023.gdgnantes.com/en/sessions/workshop_sur_l_integration_a_l_ere_du_cloud_avec_camel_quarkus/) with my colleague [Kevin Dubois](https://www.kevindubois.com/) at DEVFEST NANTES 2023. This was the first time that the workshop was demonstrated with the Camel Quarkus 3.x major release and... all went good.
 Still, the 2 hours slot was very short.
 In such conditions, we might spend more time explaining Camel and Quarkus principles straight away so that people could finish the workshop at home.
-Last but not least, with this session I reached more than 100 persons trained with the Camel Quarkus workshop.
+There was 15 people attending this session, as a consequence I reached more than 100 persons trained with the Camel Quarkus workshop.
 It's just good motivation to reach 200 !
 
 ## Voxxed Days Ticino - January 2024
