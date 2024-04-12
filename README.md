@@ -95,3 +95,11 @@ This conference in Lugano was a really pleasant occasion to present [Apache Came
 A ten folks attended this session where I summarized the history of major Camel releases.
 I also presented some new tools revolutionizing the Camel user experience.
 A wider part of the audience already knew Camel and I think that this presentation format was well received by them.
+
+## Community over Code - June 2024
+This will be a good occasion to merge with the ASF EUniverse in Bratislava.
+We are planning to setup a poster session track about Camel 4.
+Having a big A0 formatted poster and hanging around in the area to see what kind of discussions it triggers.
+I'm really curious to see how it ends up.
+Also, I will demo Camel Quarkus, especially with KNative.
+Let's see how it goes.
