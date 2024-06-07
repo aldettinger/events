@@ -97,9 +97,9 @@ I also presented some new tools revolutionizing the Camel user experience.
 A wider part of the audience already knew Camel and I think that this presentation format was well received by them.
 
 ## Community over Code - June 2024
-This will be a good occasion to merge with the ASF EUniverse in Bratislava.
-We are planning to setup a poster session track about Camel 4.
-Having a big A0 formatted poster and hanging around in the area to see what kind of discussions it triggers.
-I'm really curious to see how it ends up.
-Also, I will demo Camel Quarkus, especially with KNative.
-Let's see how it goes.
+2024, the Apache foundation is 25th year old this year !
+The European flavor of Community over Code occurred in Bratislava.
+As a widely used Apache project, a series of 3 consistent sessions was dedicated to Camel.
+On my side, I have presented some technical tips and explained the performance goodness of running Camel with Quarkus.
+There were around 25 people attending the session.
+The talk should have been recorded and will probably become available in the coming weeks, let's see.
