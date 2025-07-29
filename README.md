@@ -102,4 +102,9 @@ The European flavor of Community over Code occurred in Bratislava.
 As a widely used Apache project, a series of 3 consistent sessions was dedicated to Camel.
 On my side, I have presented some technical tips and explained the performance goodness of running Camel with Quarkus.
 There were around 25 people attending the session.
-The talk should have been recorded and will probably become available in the coming weeks, let's see.
+
+## JavaZone 2025 - September 2025
+The JavaZone 2025 edition will be held in Oslo and Lillestrøm.
+The selection committee took an interest in one of my demo related to unstructured data extraction with Camel Quarkus Langchain4j.
+The Camel team has now a bit of experience when it comes to use LLMs with Camel now.
+So, it would be interesting to see how many people find interest in this session and what the feedback looks like.
