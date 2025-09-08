@@ -104,7 +104,10 @@ On my side, I have presented some technical tips and explained the performance g
 There were around 25 people attending the session.
 
 ## JavaZone 2025 - September 2025
-The JavaZone 2025 edition will be held in Oslo and Lillestrøm.
+The JavaZone 2025 edition was held in Oslo and Lillestrøm.
 The selection committee took an interest in one of my demo related to unstructured data extraction with Camel Quarkus Langchain4j.
-The Camel team has now a bit of experience when it comes to use LLMs with Camel now.
-So, it would be interesting to see how many people find interest in this session and what the feedback looks like.
+There were around 80 persons attending the session.
+Some people show interest in using open source data extraction instead of a paid external vendor.
+That way, they could get more control over their stack and more confidence that their data is kept private.
+According to the organizers, the video recording should be available in a few days, let's see.
+
