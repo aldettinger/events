@@ -109,4 +109,5 @@ The selection committee took an interest in one of my demo related to unstructur
 There were around 80 persons attending the session, the recording could be found [here](https://vimeo.com/1115763884).
 Some people show interest in using open source data extraction instead of a paid external vendor.
 That way, they could get more control over their stack and more confidence that their data is kept private.
-
+From the general feedback collected, the audience enjoyed the talk a bit and found the content very relevant.
+One of the attendee was explicilty mentioning the interest for such a practical and narrow demo.
