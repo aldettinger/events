@@ -111,3 +111,9 @@ Some people showed interest in using open source data extraction instead of a pa
 That way, they could get more control over their stack and more confidence that their data is kept private.
 From the general feedback collected, the audience enjoyed the talk a bit and found the content very relevant.
 One of the attendee was explicilty mentioning the interest for such a practical and narrow demo.
+
+## JCON Europe 2026 - April 2026
+The JCON Europe 2026 conference will be located in Cologne.
+This will be another occasion to share about unstructured data extraction with Camel Quarkus Langchain4j.
+It will be interesting to record the talk attendance and if possible find the recording.
+Eager to see what kind of interactions the subject will favor.
