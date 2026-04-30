@@ -113,7 +113,11 @@ From the general feedback collected, the audience enjoyed the talk a bit and fou
 One of the attendee was explicilty mentioning the interest for such a practical and narrow demo.
 
 ## JCON Europe 2026 - April 2026
-The JCON Europe 2026 conference will be located in Cologne.
-This will be another occasion to share about unstructured data extraction with Camel Quarkus Langchain4j.
-It will be interesting to record the talk attendance and if possible find the recording.
-Eager to see what kind of interactions the subject will favor.
+The awesome JCON Europe 2026 conference took place in Cologne.
+Another opportunity to share about unstructured data extraction using Camel Quarkus Langchain4j emerges.
+With a lower attendee count of 26 compared to JavaZone, the talk incites more questions and off-topic discussions from attendees.
+Attendees facing performance issues with their company's data extraction express keen interest in granite 4 latency.
+Often possessing only one model, they begin realizing that utilizing multiple models might become standard practice.
+Given an homogeneous internal IT landscape, integration capabilities remain paramount, but only when dealings with external companies.
+Several individuals inquire about structured output and show preference for a handcrafted JSON schema over one derived from the class structure.
+Regarding talk format, attendees express a 50-minute slot as optimal due to subject depth.
